@@ -12,6 +12,17 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>defaultSearch</name>
+                <value>Restaurants</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>designHeight</name>
+                <value>small</value>
+            </componentInstanceProperties>
+            <componentName>YelpDemo</componentName>
+        </componentInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>
